@@ -77,7 +77,7 @@ pnpm dev
 ### Primeiro Uso
 
 1. Acesse o dashboard em `http://localhost:3000`
-2. Faça login com sua conta Manus
+2. Faça login com sua conta 
 3. Vá para a página "Dispositivos" e cadastre sua primeira catraca
 4. Insira o IP e porta do dispositivo Control iD
 5. Clique em "Testar" para verificar conectividade
