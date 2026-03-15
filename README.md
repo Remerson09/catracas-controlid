@@ -195,7 +195,7 @@ Os testes cobrem:
 ### Problemas de autenticação
 1. Faça logout e login novamente
 2. Limpe o cache do navegador
-3. Verifique se sua conta Manus está ativa
+3. Verifique se sua conta  está ativa
 
 ## Suporte
 
