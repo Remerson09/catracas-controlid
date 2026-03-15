@@ -172,7 +172,7 @@ Os testes cobrem:
 
 ## Segurança
 
-- Autenticação obrigatória via Manus OAuth
+- Autenticação obrigatória  OAuth
 - Todas as ações são auditadas com identificação do usuário
 - Comunicação com dispositivos via TCP/IP seguro
 - Validação de comandos hexadecimais
